@@ -1,6 +1,6 @@
 # PROYECTO-BETA_SQL
 
-´´´
+```
 ├── backend/                      # Servidor Node.js + Express
 │   ├── config/                   # Configuraciones
 │   │   ├── database.js          # Configuración de Sequelize
@@ -82,4 +82,4 @@
 │
 ├── .gitignore                    # Archivos ignorados por Git
 └── README.md                     # Este archivo
-´´´
+```
