@@ -1,5 +1,4 @@
-# PROYECTO-BETA_SQL
-
+# PROYECTO-BETA_SQL (farmacia NOVA) version beta 0.1
 ```
 ├── backend/                      # Servidor Node.js + Express
 │   ├── config/                   # Configuraciones
